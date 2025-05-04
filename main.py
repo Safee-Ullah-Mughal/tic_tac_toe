@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-
-"""
-Main module for the Tic-Tac-Toe game.
-Manages the game flow and user interaction.
-"""
-
 import sys
 from game.board import Board
 from game.players import Player
