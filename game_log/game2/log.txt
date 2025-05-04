@@ -1,0 +1,83 @@
+Game 2 Log
+Started: 2025-05-04 13:33:35
+
+Players:
+- Umer (X)
+- Safee (O)
+
+First move: Umer
+
+Moves:
+Move 1: Umer -> Position 5
+Board After Move 1:
+ 1 | 2 | 3 
+-----------
+ 4 | X | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 2: Safee -> Position 7
+Board After Move 2:
+ 1 | 2 | 3 
+-----------
+ 4 | X | 6 
+-----------
+ O | 8 | 9 
+
+Move 3: Umer -> Position 1
+Board After Move 3:
+ X | 2 | 3 
+-----------
+ 4 | X | 6 
+-----------
+ O | 8 | 9 
+
+Move 4: Safee -> Position 9
+Board After Move 4:
+ X | 2 | 3 
+-----------
+ 4 | X | 6 
+-----------
+ O | 8 | O 
+
+Move 5: Umer -> Position 8
+Board After Move 5:
+ X | 2 | 3 
+-----------
+ 4 | X | 6 
+-----------
+ O | X | O 
+
+Move 6: Safee -> Position 2
+Board After Move 6:
+ X | O | 3 
+-----------
+ 4 | X | 6 
+-----------
+ O | X | O 
+
+Move 7: Umer -> Position 4
+Board After Move 7:
+ X | O | 3 
+-----------
+ X | X | 6 
+-----------
+ O | X | O 
+
+Move 8: Safee -> Position 6
+Board After Move 8:
+ X | O | 3 
+-----------
+ X | X | O 
+-----------
+ O | X | O 
+
+Move 9: Umer -> Position 3
+Board After Move 9:
+ X | O | X 
+-----------
+ X | X | O 
+-----------
+ O | X | O 
+
+Result: Draw

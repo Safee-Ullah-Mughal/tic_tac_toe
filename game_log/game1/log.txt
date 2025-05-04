@@ -1,0 +1,83 @@
+Game 1 Log
+Started: 2025-05-04 13:32:08
+
+Players:
+- a (X)
+- s (O)
+
+First move: a
+
+Moves:
+Move 1: a -> Position 2
+Board After Move 1:
+ 1 | X | 3 
+-----------
+ 4 | 5 | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 2: s -> Position 5
+Board After Move 2:
+ 1 | X | 3 
+-----------
+ 4 | O | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 3: a -> Position 1
+Board After Move 3:
+ X | X | 3 
+-----------
+ 4 | O | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 4: s -> Position 3
+Board After Move 4:
+ X | X | O 
+-----------
+ 4 | O | 6 
+-----------
+ 7 | 8 | 9 
+
+Move 5: a -> Position 7
+Board After Move 5:
+ X | X | O 
+-----------
+ 4 | O | 6 
+-----------
+ X | 8 | 9 
+
+Move 6: s -> Position 4
+Board After Move 6:
+ X | X | O 
+-----------
+ O | O | 6 
+-----------
+ X | 8 | 9 
+
+Move 7: a -> Position 6
+Board After Move 7:
+ X | X | O 
+-----------
+ O | O | X 
+-----------
+ X | 8 | 9 
+
+Move 8: s -> Position 9
+Board After Move 8:
+ X | X | O 
+-----------
+ O | O | X 
+-----------
+ X | 8 | O 
+
+Move 9: a -> Position 8
+Board After Move 9:
+ X | X | O 
+-----------
+ O | O | X 
+-----------
+ X | X | O 
+
+Result: Draw
